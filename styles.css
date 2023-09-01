@@ -1,0 +1,9 @@
+body {
+ background-color: black;   
+}
+
+.postcard {
+    height: 300px;
+    width: 400px;
+    background: white;
+}
